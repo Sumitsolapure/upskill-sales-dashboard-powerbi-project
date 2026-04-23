@@ -40,7 +40,8 @@ Built an interactive Power BI dashboard to track sales performance, marketing ef
 ---
 
 ## 📷 Dashboard Preview
-(Snapshot of the Dashboard.png)
+<img width="1157" height="866" alt="Sanpshot of the Dashboard" src="https://github.com/user-attachments/assets/17ca2342-0d63-45fd-8c2b-f2e7ceaaac70" />
+
 
 
 ---
