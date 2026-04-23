@@ -1,0 +1,201 @@
+First Name,Last Name,Gender,City,Age,Ad Type,Date,Course,Revenue,Daily Budget
+Rajesh,Kulkarni,Female,Mysore,25,Video,12-08-2024,Digital Marketing,12000,1000
+Anil,Patil,Female,Mangalore,23,Carousel,07-05-2024,Digital Marketing,12000,3000
+Rajesh,Kulkarni,Female,Davangere,40,Image,18-05-2024,SAP,12000,500
+Deepa,Joshi,Male,Hubli,21,Image,10-05-2024,Data Analytics,16000,2000
+Suresh,Kulkarni,Male,Davangere,21,Image,01-05-2024,Digital Marketing,12000,500
+Unknown Name,Patil,Male,Shimoga,35,Carousel,10-09-2024,Advanced Data Analytics,22000,1500
+Ravi,Joshi,Female,Mangalore,35,Carousel,19-12-2024,SAP,12000,500
+Swathi,Shetty,Female,Tumkur,21,Carousel,18-12-2024,SAP,12000,2000
+Deepa,Gowda,Female,Hubli,28,Image,04-05-2024,Data Analytics,16000,2000
+Megha,Patil,Male,Mysore,34,Image,06-11-2024,Data Analytics,16000,500
+Pooja,Rao,Male,Belgaum,32,Video,22-01-2024,SAP,12000,1500
+Deepa,Joshi,Male,Bangalore,37,Carousel,09-08-2024,Data Analytics,16000,1000
+Megha,Joshi,Male,Tumkur,35,Image,28-04-2024,Data Analytics,16000,1500
+Pooja,Desai,Female,Tumkur,28,Image,16-10-2024,Data Analytics,16000,3000
+Megha,Desai,Male,Bangalore,34,Image,21-05-2024,Digital Marketing,12000,1500
+Ramesh,Joshi,Male,Mysore,23,Video,29-07-2024,Digital Marketing,12000,1500
+Anil,Patil,Male,Mangalore,37,Carousel,05-03-2024,Digital Marketing,12000,2000
+Rajesh,Bhat,Female,Hubli,31,Video,14-06-2024,Data Analytics,16000,1500
+Megha,Bhat,Female,Shimoga,35,Carousel,18-12-2024,SAP,12000,1500
+Unknown Name,Joshi,Male,Dharwad,39,Image,29-07-2024,SAP,12000,500
+Megha,Joshi,Male,Tumkur,27,Carousel,07-04-2024,Digital Marketing,12000,2500
+Swathi,Gowda,Female,Unknown City ,34,Image,03-05-2024,SAP,12000,3000
+Rajesh,Desai,Male,Dharwad,27,Image,08-08-2024,Digital Marketing,12000,500
+Suresh,Nayak,Female,Dharwad,29,Carousel,22-07-2024,Digital Marketing,12000,500
+Kiran,Shetty,Male,Mysore,40,Carousel,30-10-2024,Digital Marketing,12000,2000
+Ravi,Hegde,Female,Shimoga,19,Image,08-11-2024,Digital Marketing,12000,1500
+Unknown Name,Kulkarni,Female,Hubli,23,Video,06-01-2024,Data Analytics,16000,1500
+Swathi,Shetty,Female,Hubli,32,Carousel,18-01-2024,SAP,12000,3000
+Rajesh,Rao,Male,Hubli,32,Carousel,11-03-2024,Advanced Data Analytics,22000,500
+Ramesh,Joshi,Female,Belgaum,37,Image,08-05-2024,Digital Marketing,12000,500
+Pooja,Shetty,Female,Tumkur,28,Image,05-11-2024,Digital Marketing,12000,1000
+Anil,Patil,Male,Belgaum,33,Video,16-12-2024,Advanced Data Analytics,22000,1500
+Megha,Kulkarni,Male,Hubli,21,Video,04-09-2024,Advanced Data Analytics,22000,1000
+Suresh,Gowda,Male,Davangere,21,Image,10-12-2024,Advanced Data Analytics,22000,1500
+Anil,Bhat,Male,Mysore,23,Video,19-08-2024,SAP,12000,2500
+Rajesh,Nayak,Female,Belgaum,26,Image,25-03-2024,Digital Marketing,12000,2000
+Suresh,Nayak,Male,Mysore,33,Video,02-08-2024,Digital Marketing,12000,2500
+Rajesh,Bhat,Male,Davangere,22,Image,26-02-2024,Digital Marketing,12000,1000
+Anil,Bhat,Male,Mangalore,34,Video,18-12-2024,Digital Marketing,12000,3000
+Anil,Desai,Female,Dharwad,31,Carousel,06-06-2024,Digital Marketing,12000,2500
+Ravi,Rao,Male,Mysore,38,Carousel,09-03-2024,Digital Marketing,12000,3000
+Suresh,Kulkarni,Male,Dharwad,35,Video,20-03-2024,Data Analytics,16000,2000
+Pooja,Rao,Female,Mangalore,24,Video,06-04-2024,Data Analytics,16000,500
+Suresh,Desai,Female,Hubli,34,Carousel,14-01-2024,Advanced Data Analytics,22000,1500
+Rajesh,Gowda,Female,Davangere,39,Carousel,28-08-2024,SAP,12000,1000
+Unknown Name,Bhat,Male,Dharwad,20,Image,31-05-2024,Data Analytics,16000,1000
+Pooja,Rao,Female,Unknown City ,40,Video,28-06-2024,Data Analytics,16000,1000
+Megha,Patil,Female,Udupi,37,Carousel,11-10-2024,Data Analytics,16000,2500
+Suresh,Rao,Male,Udupi,32,Carousel,05-06-2024,Digital Marketing,12000,3000
+Ramesh,Patil,Female,Davangere,33,Carousel,03-04-2024,Data Analytics,16000,1000
+Ravi,Gowda,Female,Dharwad,20,Video,04-06-2024,SAP,12000,2500
+Pooja,Shetty,Male,Belgaum,30,Carousel,24-12-2024,SAP,12000,3000
+Kiran,Joshi,Male,Mysore,28,Image,08-10-2024,SAP,12000,1500
+Pooja,Rao,Female,Mangalore,20,Video,19-09-2024,Advanced Data Analytics,22000,1000
+Kiran,Rao,Male,Dharwad,22,Image,22-02-2024,Data Analytics,16000,1500
+Rajesh,Shetty,Male,Davangere,32,Video,11-09-2024,Digital Marketing,12000,1500
+Megha,Hegde,Male,Belgaum,30,Image,08-12-2024,Data Analytics,16000,1500
+Swathi,Desai,Female,Hubli,36,Video,27-04-2024,Data Analytics,16000,500
+Kiran,Bhat,Male,Dharwad,40,Image,28-07-2024,Digital Marketing,12000,3000
+Suresh,Kulkarni,Female,Mysore,28,Image,20-09-2024,SAP,12000,500
+Ramesh,Desai,Male,Shimoga,29,Carousel,24-05-2024,Advanced Data Analytics,22000,2500
+Ravi,Hegde,Male,Dharwad,34,Video,05-05-2024,SAP,12000,2500
+Suresh,Desai,Male,Unknown City ,39,Carousel,01-07-2024,Advanced Data Analytics,22000,1000
+Anil,Shetty,Female,Mangalore,27,Video,17-12-2024,Digital Marketing,12000,500
+Anil,Kulkarni,Female,Shimoga,33,Video,15-01-2024,Advanced Data Analytics,22000,500
+Ramesh,Shetty,Male,Dharwad,22,Video,29-01-2024,SAP,12000,2500
+Ramesh,Desai,Male,Mangalore,30,Carousel,19-06-2024,Data Analytics,16000,500
+Deepa,Nayak,Male,Unknown City ,25,Image,20-04-2024,Advanced Data Analytics,22000,2500
+Anil,Nayak,Female,Davangere,28,Image,22-05-2024,SAP,12000,1000
+Rajesh,Desai,Male,Tumkur,35,Carousel,10-07-2024,Digital Marketing,12000,1500
+Swathi,Bhat,Male,Bangalore,31,Image,19-01-2024,SAP,12000,1500
+Ramesh,Desai,Male,Davangere,34,Image,20-02-2024,Advanced Data Analytics,22000,1500
+Rajesh,Kulkarni,Female,Tumkur,34,Video,06-07-2024,Data Analytics,16000,1000
+Ravi,Gowda,Female,Mysore,23,Carousel,25-02-2024,Advanced Data Analytics,22000,2500
+Kiran,Nayak,Female,Davangere,21,Image,24-07-2024,SAP,12000,3000
+Anil,Nayak,Female,Belgaum,31,Carousel,03-05-2024,Digital Marketing,12000,2000
+Megha,Gowda,Male,Shimoga,31,Carousel,23-11-2024,SAP,12000,3000
+Ramesh,Rao,Male,Shimoga,19,Carousel,26-02-2024,Data Analytics,16000,1500
+Megha,Desai,Female,Hubli,37,Video,02-02-2024,Digital Marketing,12000,3000
+Anil,Gowda,Male,Udupi,35,Image,20-05-2024,Data Analytics,16000,1500
+Suresh,Desai,Male,Mysore,22,Image,09-12-2024,Advanced Data Analytics,22000,2000
+Rajesh,Gowda,Male,Dharwad,20,Carousel,10-02-2024,Data Analytics,16000,1000
+Ramesh,Nayak,Male,Tumkur,33,Image,17-12-2024,Data Analytics,16000,500
+Swathi,Rao,Male,Belgaum,19,Image,16-08-2024,Advanced Data Analytics,22000,3000
+Pooja,Rao,Male,Tumkur,39,Carousel,17-12-2024,Data Analytics,16000,1500
+Anil,Joshi,Male,Shimoga,20,Carousel,30-12-2024,Advanced Data Analytics,22000,500
+Unknown Name,Shetty,Female,Unknown City ,19,Video,29-10-2024,Digital Marketing,12000,1500
+Pooja,Joshi,Female,Bangalore,24,Video,06-02-2024,SAP,12000,500
+Kiran,Rao,Female,Udupi,36,Carousel,09-06-2024,SAP,12000,1500
+Anil,Joshi,Male,Mysore,30,Image,24-05-2024,SAP,12000,1000
+Swathi,Gowda,Male,Bangalore,21,Image,03-10-2024,Digital Marketing,12000,2000
+Anil,Joshi,Female,Dharwad,19,Video,10-07-2024,Digital Marketing,12000,2000
+Anil,Patil,Male,Hubli,35,Video,27-07-2024,Digital Marketing,12000,2000
+Anil,Joshi,Female,Shimoga,29,Carousel,01-09-2024,Advanced Data Analytics,22000,2000
+Ravi,Patil,Female,Davangere,20,Image,30-10-2024,SAP,12000,1500
+Pooja,Desai,Female,Tumkur,28,Video,10-04-2024,Data Analytics,16000,500
+Anil,Patil,Male,Bangalore,22,Carousel,25-11-2024,Digital Marketing,12000,1000
+Kiran,Shetty,Male,Tumkur,30,Video,02-11-2024,SAP,12000,2500
+Pooja,Gowda,Male,Davangere,35,Image,26-06-2024,SAP,12000,2500
+Unknown Name,Nayak,Male,Hubli,38,Image,28-01-2024,Data Analytics,16000,2500
+Rajesh,Hegde,Male,Mangalore,39,Carousel,02-04-2024,SAP,12000,1000
+Suresh,Kulkarni,Female,Shimoga,39,Video,24-09-2024,Digital Marketing,12000,2000
+Kiran,Hegde,Female,Udupi,33,Image,30-03-2024,SAP,12000,2000
+Megha,Kulkarni,Female,Hubli,36,Carousel,18-04-2024,Advanced Data Analytics,22000,1500
+Swathi,Joshi,Male,Mangalore,40,Video,27-11-2024,SAP,12000,2000
+Kiran,Kulkarni,Female,Mysore,32,Carousel,07-11-2024,Data Analytics,16000,2500
+Swathi,Rao,Female,Dharwad,29,Video,26-12-2024,Data Analytics,16000,2500
+Unknown Name,Nayak,Male,Hubli,24,Video,16-07-2024,Digital Marketing,12000,1500
+Kiran,Desai,Male,Mysore,20,Image,20-04-2024,SAP,12000,2000
+Kiran,Nayak,Female,Udupi,31,Video,26-02-2024,Digital Marketing,12000,1000
+Megha,Patil,Female,Davangere,23,Carousel,06-03-2024,Data Analytics,16000,1000
+Ravi,Kulkarni,Female,Dharwad,40,Image,26-11-2024,Advanced Data Analytics,22000,500
+Megha,Hegde,Male,Shimoga,32,Carousel,22-06-2024,Advanced Data Analytics,22000,500
+Deepa,Bhat,Female,Mysore,39,Video,24-12-2024,Data Analytics,16000,3000
+Deepa,Patil,Male,Belgaum,32,Image,05-06-2024,Advanced Data Analytics,22000,1500
+Pooja,Hegde,Female,Udupi,25,Carousel,13-06-2024,SAP,12000,2500
+Megha,Rao,Female,Dharwad,36,Video,24-11-2024,Advanced Data Analytics,22000,2000
+Deepa,Bhat,Male,Hubli,20,Video,23-08-2024,Digital Marketing,12000,1000
+Swathi,Desai,Male,Bangalore,35,Carousel,26-07-2024,Digital Marketing,12000,2000
+Suresh,Joshi,Male,Udupi,35,Carousel,20-08-2024,Data Analytics,16000,2000
+Unknown Name,Desai,Male,Tumkur,27,Image,21-01-2024,Advanced Data Analytics,22000,3000
+Pooja,Kulkarni,Male,Unknown City ,31,Carousel,21-02-2024,Data Analytics,16000,3000
+Rajesh,Kulkarni,Male,Shimoga,21,Image,16-10-2024,Digital Marketing,12000,2500
+Deepa,Hegde,Male,Shimoga,28,Image,03-06-2024,Data Analytics,16000,1000
+Rajesh,Bhat,Male,Bangalore,30,Video,11-11-2024,Advanced Data Analytics,22000,3000
+Swathi,Shetty,Female,Belgaum,35,Carousel,22-09-2024,Data Analytics,16000,2500
+Kiran,Desai,Female,Dharwad,33,Video,08-01-2024,Advanced Data Analytics,22000,1500
+Suresh,Patil,Female,Mysore,32,Carousel,15-10-2024,Digital Marketing,12000,1000
+Megha,Bhat,Female,Tumkur,32,Image,01-12-2024,Advanced Data Analytics,22000,2000
+Ramesh,Rao,Male,Shimoga,29,Carousel,22-08-2024,Advanced Data Analytics,22000,2000
+Suresh,Gowda,Male,Davangere,18,Image,02-06-2024,SAP,12000,3000
+Ravi,Desai,Female,Udupi,32,Carousel,09-12-2024,Digital Marketing,12000,2500
+Swathi,Bhat,Female,Bangalore,40,Video,24-11-2024,Digital Marketing,12000,2500
+Kiran,Hegde,Female,Davangere,40,Video,12-11-2024,SAP,12000,500
+Megha,Gowda,Female,Tumkur,40,Carousel,16-12-2024,Data Analytics,16000,2500
+Unknown Name,Kulkarni,Female,Shimoga,38,Image,14-12-2024,Advanced Data Analytics,22000,3000
+Swathi,Kulkarni,Female,Mysore,26,Image,05-10-2024,Advanced Data Analytics,22000,3000
+Rajesh,Desai,Male,Tumkur,30,Carousel,23-12-2024,Data Analytics,16000,2000
+Suresh,Patil,Female,Belgaum,25,Video,11-05-2024,Advanced Data Analytics,22000,2500
+Swathi,Shetty,Female,Shimoga,19,Carousel,30-10-2024,Advanced Data Analytics,22000,3000
+Megha,Kulkarni,Male,Tumkur,22,Image,26-05-2024,Digital Marketing,12000,3000
+Megha,Nayak,Female,Tumkur,18,Carousel,18-04-2024,SAP,12000,2000
+Megha,Bhat,Female,Udupi,37,Image,21-08-2024,Data Analytics,16000,1000
+Megha,Hegde,Male,Shimoga,20,Video,04-11-2024,Data Analytics,16000,1500
+Pooja,Hegde,Male,Hubli,22,Carousel,11-06-2024,Digital Marketing,12000,2000
+Deepa,Patil,Male,Bangalore,19,Video,13-12-2024,Data Analytics,16000,3000
+Ravi,Desai,Female,Mysore,19,Image,14-04-2024,Digital Marketing,12000,2500
+Swathi,Shetty,Female,Dharwad,36,Video,10-09-2024,Data Analytics,16000,2000
+Swathi,Desai,Female,Mangalore,32,Video,04-11-2024,Digital Marketing,12000,2500
+Kiran,Nayak,Male,Mysore,37,Carousel,12-01-2024,Digital Marketing,12000,500
+Ravi,Gowda,Male,Dharwad,33,Image,30-12-2024,SAP,12000,1500
+Unknown Name,Joshi,Male,Belgaum,21,Image,09-09-2024,Data Analytics,16000,1000
+Rajesh,Desai,Female,Mangalore,18,Image,05-02-2024,Advanced Data Analytics,22000,1500
+Rajesh,Bhat,Male,Shimoga,21,Video,13-12-2024,SAP,12000,3000
+Ramesh,Shetty,Male,Davangere,34,Video,01-06-2024,Digital Marketing,12000,3000
+Swathi,Nayak,Female,Bangalore,40,Image,03-08-2024,Advanced Data Analytics,22000,3000
+Kiran,Bhat,Male,Unknown City ,36,Image,01-06-2024,Advanced Data Analytics,22000,2500
+Swathi,Rao,Female,Dharwad,32,Video,24-10-2024,SAP,12000,2500
+Suresh,Nayak,Male,Belgaum,37,Image,20-08-2024,Digital Marketing,12000,500
+Megha,Gowda,Male,Mysore,40,Video,08-11-2024,Data Analytics,16000,500
+Pooja,Rao,Female,Davangere,35,Image,15-09-2024,SAP,12000,1500
+Ramesh,Patil,Male,Udupi,31,Video,15-10-2024,Advanced Data Analytics,22000,500
+Megha,Gowda,Male,Shimoga,31,Video,30-09-2024,SAP,12000,2000
+Kiran,Nayak,Male,Mysore,38,Image,03-09-2024,SAP,12000,2000
+Deepa,Gowda,Male,Davangere,24,Video,28-03-2024,Data Analytics,16000,3000
+Ravi,Patil,Female,Mysore,38,Video,25-10-2024,Data Analytics,16000,1500
+Rajesh,Shetty,Male,Shimoga,23,Carousel,23-04-2024,Data Analytics,16000,1500
+Ramesh,Shetty,Female,Dharwad,26,Carousel,17-11-2024,Data Analytics,16000,500
+Anil,Joshi,Male,Unknown City ,35,Image,27-10-2024,SAP,12000,1000
+Megha,Joshi,Female,Shimoga,21,Carousel,24-06-2024,SAP,12000,2500
+Swathi,Bhat,Female,Belgaum,19,Video,12-12-2024,Data Analytics,16000,2000
+Pooja,Bhat,Female,Tumkur,32,Video,22-02-2024,Data Analytics,16000,500
+Ramesh,Kulkarni,Male,Bangalore,28,Video,05-06-2024,Advanced Data Analytics,22000,1000
+Kiran,Hegde,Male,Belgaum,24,Image,25-11-2024,Data Analytics,16000,500
+Rajesh,Nayak,Female,Belgaum,29,Video,11-11-2024,SAP,12000,1000
+Megha,Desai,Female,Dharwad,38,Video,30-12-2024,Advanced Data Analytics,22000,500
+Megha,Rao,Male,Udupi,23,Image,24-09-2024,SAP,12000,1500
+Megha,Shetty,Male,Belgaum,28,Video,18-05-2024,SAP,12000,1500
+Anil,Rao,Male,Hubli,34,Video,29-12-2024,Advanced Data Analytics,22000,3000
+Rajesh,Joshi,Male,Unknown City ,24,Image,28-01-2024,Advanced Data Analytics,22000,1500
+Deepa,Nayak,Male,Belgaum,37,Video,01-01-2024,Data Analytics,16000,1500
+Megha,Shetty,Female,Shimoga,32,Carousel,26-03-2024,Digital Marketing,12000,500
+Suresh,Gowda,Male,Bangalore,31,Video,21-12-2024,SAP,12000,3000
+Anil,Shetty,Female,Dharwad,31,Video,02-09-2024,Advanced Data Analytics,22000,2000
+Rajesh,Kulkarni,Female,Mangalore,25,Video,04-04-2024,SAP,12000,2000
+Suresh,Gowda,Female,Davangere,39,Carousel,27-03-2024,Advanced Data Analytics,22000,2000
+Deepa,Kulkarni,Male,Hubli,22,Video,31-01-2024,Advanced Data Analytics,22000,3000
+Ramesh,Patil,Male,Belgaum,20,Carousel,11-02-2024,Digital Marketing,12000,1500
+Deepa,Kulkarni,Male,Dharwad,26,Image,17-08-2024,Advanced Data Analytics,22000,3000
+Ravi,Desai,Female,Shimoga,35,Video,19-02-2024,Digital Marketing,12000,1500
+Swathi,Patil,Female,Tumkur,22,Image,30-03-2024,SAP,12000,1000
+Anil,Nayak,Male,Mangalore,35,Carousel,11-04-2024,Data Analytics,16000,500
+Swathi,Kulkarni,Female,Mangalore,38,Video,03-02-2024,Advanced Data Analytics,22000,500
+Deepa,Desai,Female,Unknown City ,36,Image,24-09-2024,Data Analytics,16000,2500
+Rajesh,Desai,Female,Bangalore,39,Video,02-03-2024,SAP,12000,2500
+Suresh,Desai,Male,Hubli,29,Video,15-04-2024,SAP,12000,1000
+Deepa,Gowda,Male,Shimoga,35,Video,04-01-2024,Digital Marketing,12000,1500
+Pooja,Patil,Female,Dharwad,36,Video,11-08-2024,Advanced Data Analytics,22000,1500
+Rajesh,Bhat,Female,Belgaum,27,Image,29-09-2024,Digital Marketing,12000,2000
+Rajesh,Desai,Male,Hubli,25,Video,16-08-2024,Data Analytics,16000,3000
