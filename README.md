@@ -56,4 +56,4 @@ Built an interactive Power BI dashboard to track sales performance, marketing ef
 Aspiring Data Analyst skilled in Power BI, SQL, and Excel.
 
 🔗 LinkedIn: www.linkedin.com/in/sumit-solapure-553756278
-🔗 GitHub: (your link)
+🔗 GitHub: https://github.com/Sumitsolapure
